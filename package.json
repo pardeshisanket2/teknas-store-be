@@ -2,7 +2,7 @@
   "name": "teknas",
   "version": "1.0.0",
   "description": "Simple E-comm BE with Express and MongoDB",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "NODE_ENV=dev nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
